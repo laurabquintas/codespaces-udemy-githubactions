@@ -1,2 +1,2 @@
 # codespaces-udemy-githubactions
-REpository for udemy GithubActions course
+Repository for udemy GithubActions course
